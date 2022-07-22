@@ -34,6 +34,6 @@ echo $response->getSessionId();
 ## Documentation
 [**PHP SDK Docs**](https://github.com/depositphotos/api-sdk-php/wiki)
 
-[**Regular API Docs**](https://api.depositphotos.com/doc2)
+[**Regular API Docs**](https://api.depositphotos.com/doc2/)
 
 [**Enterprise API Docs**](https://api.depositphotos.com/doc)
