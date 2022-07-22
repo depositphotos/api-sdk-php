@@ -1,0 +1,29 @@
+{
+    "name": "depositphotos/api-sdk-php",
+    "type": "library",
+    "license": "MIT",
+    "description": "PHP SDK for Depositphotos API",
+    "require": {
+        "php": ">=7.1",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "phpstan/phpstan": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Depositphotos\\SDK\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Depositphotos\\SDK\\Tests\\": "tests/"
+        }
+    },
+    "scripts":{
+        "test": "vendor/bin/phpunit tests",
+        "analyse": "vendor/bin/phpstan analyse src -c phpstan.neon"
+    }
+}

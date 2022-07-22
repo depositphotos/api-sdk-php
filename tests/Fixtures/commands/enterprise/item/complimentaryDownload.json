@@ -1,0 +1,12 @@
+{
+  "request": {
+    "dp_command": "complimentaryDownload",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_item_id": 123,
+    "dp_option": "l"
+  },
+  "response": {
+    "type": "success",
+    "downloadLink": "https:\/\/download....81097b25"
+  }
+}

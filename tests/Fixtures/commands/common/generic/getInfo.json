@@ -1,0 +1,10 @@
+{
+  "request": {
+    "dp_command": "getInfo"
+  },
+  "response": {
+    "type": "success",
+    "totalFiles": 23445,
+    "totalWeekFiles": 2313
+  }
+}

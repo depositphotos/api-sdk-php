@@ -1,0 +1,17 @@
+{
+  "request": {
+    "dp_command": "setEnterprisePermissions",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_user_id": 123,
+    "dp_permission": "license",
+    "dp_state": true
+  },
+  "response": {
+    "type": "success",
+    "permissions": {
+      "enterprise": [
+        "license"
+      ]
+    }
+  }
+}

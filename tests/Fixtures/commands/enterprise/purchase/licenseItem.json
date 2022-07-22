@@ -1,0 +1,47 @@
+{
+  "request": {
+    "dp_command": "licenseItem",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_licensing": [
+      {
+        "dp_item_id": [
+          12345678,
+          12345679
+        ],
+        "dp_option": "l",
+        "dp_license_id": 12453
+      }
+    ],
+    "dp_project": "Project",
+    "dp_client": "Client",
+    "dp_purchase_order": null,
+    "dp_isbn": "isbn",
+    "dp_other": null
+  },
+  "response": {
+    "type": "success",
+    "result": {
+      "12345678": {
+        "result": "success",
+        "transaction": [
+          {
+            "transactionId": 1234567,
+            "license": 10123,
+            "sizes": 2
+          }
+        ],
+        "fileId": 12345678,
+        "downloadLink": "http:\/\/st.depositphotos.com\/storage\/item\/download?id=1234"
+      },
+      "12345679": {
+        "result": "error",
+        "errors": [
+          {
+            "error_message": "message",
+            "error_code": 100
+          }
+        ]
+      }
+    }
+  }
+}

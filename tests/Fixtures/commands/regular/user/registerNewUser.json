@@ -1,0 +1,30 @@
+{
+  "request": {
+    "dp_command": "registerNewUser",
+    "dp_regist_user": "username",
+    "dp_regist_email": "username@mail.com",
+    "dp_regist_password": "password",
+    "dp_user_info": {
+      "username": "username",
+      "firstName": "firstName",
+      "lastName": "lastname",
+      "email": "test@mail.com",
+      "country": "USA",
+      "city": "New York",
+      "state": "New York",
+      "address": "test address",
+      "zip": "10001",
+      "phone": "+1 220-957-0553",
+      "occupation": null,
+      "gender": "M",
+      "company": "test company",
+      "businessType": null,
+      "business": null,
+      "website": null
+    }
+  },
+  "response": {
+    "type": "success",
+    "userid": 123
+  }
+}

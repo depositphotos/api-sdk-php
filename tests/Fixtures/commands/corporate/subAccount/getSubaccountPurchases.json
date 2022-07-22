@@ -1,0 +1,28 @@
+{
+  "request": {
+    "dp_command": "getSubaccountPurchases",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_subaccount_id": 123,
+    "dp_subaccount_limit": 1,
+    "dp_subaccount_offset": 0,
+    "dp_datetime_format": null
+  },
+  "response": {
+    "type": "success",
+    "purchases": [
+      {
+        "mediaId": "20162175",
+        "license": "standard",
+        "size": "m",
+        "price": "1.00",
+        "purchaseDate": "Apr.18, 2013 14:54:25",
+        "url": "http:\/\/st.depositphotos.c...Verona-Italy.jpg",
+        "licenseId": "8988231",
+        "width": "3456",
+        "height": "5184",
+        "mp": "17.92"
+      }
+    ],
+    "count": 10
+  }
+}

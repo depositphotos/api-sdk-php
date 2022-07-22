@@ -1,0 +1,22 @@
+{
+  "request": {
+    "dp_command": "getFilesCount",
+    "dp_type": "image"
+  },
+  "response": {
+    "type": "success",
+    "itemType": "image",
+    "count": 145964221,
+    "contributorsCount": 93290,
+    "freeItemsCount": 64701,
+    "curatedItemsCount": 573483,
+    "customers": 13460684,
+    "free": {
+      "total": 64701,
+      "image": 22340,
+      "vector": 14252,
+      "video": 16097,
+      "editorial": 12012
+    }
+  }
+}

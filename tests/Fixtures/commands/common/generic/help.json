@@ -1,0 +1,24 @@
+{
+  "request": {
+    "dp_command": "help",
+    "dp_by_command": "login"
+  },
+  "response": {
+    "type": "success",
+    "help": {
+      "method": "login",
+      "description": "Authentication method",
+      "longDescription": "Authentication of an API client by the specified username and password",
+      "exception": [
+        {
+          "type": "EInternal\\InvalidParam",
+          "description": ""
+        },
+        {
+          "type": "EUser\\Authentication",
+          "description": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "request": {
+    "dp_command": "getMedia",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_media_id": 1,
+    "dp_media_option": "m",
+    "dp_media_license": "standard",
+    "dp_subscription_id": null
+  },
+  "response": {
+    "type": "success",
+    "downloadLink": "https:\/\/download....81097b25",
+    "licenseId": 182395342,
+    "method": "credits",
+    "option": "m",
+    "itemId": 1
+  }
+}

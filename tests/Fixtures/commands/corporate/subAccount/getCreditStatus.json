@@ -1,0 +1,14 @@
+{
+  "request": {
+    "dp_command": "getCreditStatus",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_subaccount_id": 123
+  },
+  "response": {
+    "type": "success",
+    "creditsAmount": 100.5,
+    "subscriptionAmount": 25,
+    "invoiceAmount": 3,
+    "filesAmount": 5
+  }
+}

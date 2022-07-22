@@ -1,0 +1,62 @@
+{
+  "request": {
+    "dp_command": "getUsersFromGroup",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_limit": 10,
+    "dp_offset": 0,
+    "dp_date_start": "2022-01-03 00:00:00",
+    "dp_date_end": null,
+    "dp_all_structure": false,
+    "dp_user_id": []
+  },
+  "response": {
+    "type": "success",
+    "data": [
+      {
+        "username": "tester",
+        "firstName": "Firstname",
+        "lastName": "Lastname",
+        "city": "",
+        "avatarBig": null,
+        "avatarSmall": null,
+        "occupation": null,
+        "avatar": null,
+        "userId": 112488877,
+        "address": "dhfyj",
+        "email": "email@mail",
+        "phone": null,
+        "state": null,
+        "zip": null,
+        "registered": 1579018896,
+        "enterpriseLite": {
+          "groupId": 9309784
+        },
+        "enterpriseStats": {
+          "comps": 0,
+          "licensed": "19998",
+          "transferred": 0
+        },
+        "permissions": [
+          {
+            "resourceType": "enterprise",
+            "action": "login"
+          },
+          {
+            "resourceType": "enterprise",
+            "action": "license"
+          },
+          {
+            "resourceType": "enterprise",
+            "action": "compDownloads"
+          },
+          {
+            "resourceType": "enterprise_group",
+            "resourceId": 9309784,
+            "action": "edit"
+          }
+        ]
+      }
+    ],
+    "count": 123
+  }
+}

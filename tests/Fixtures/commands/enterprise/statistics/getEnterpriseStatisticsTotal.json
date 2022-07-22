@@ -1,0 +1,16 @@
+{
+  "request": {
+    "dp_command": "getEnterpriseStatisticsTotal",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_date_start": "2022-01-01 00:00:00",
+    "dp_date_end": "2022-01-31 23:59:59",
+    "dp_group_id": null,
+    "dp_user_id": null
+  },
+  "response": {
+    "type": "success",
+    "comps": 0,
+    "licensed": 1,
+    "transferred": 0
+  }
+}

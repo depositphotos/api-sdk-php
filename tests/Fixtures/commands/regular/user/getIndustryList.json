@@ -1,0 +1,14 @@
+{
+  "request": {
+    "dp_command": "getIndustryList"
+  },
+  "response": {
+    "type": "success",
+    "industries": [
+      "Business Services",
+      "Commercial Production",
+      "Consumer Packaged Goods",
+      "Culture"
+    ]
+  }
+}

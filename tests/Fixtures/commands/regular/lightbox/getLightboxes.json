@@ -1,0 +1,39 @@
+{
+  "request": {
+    "dp_command": "getLightboxes",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_limit": 1,
+    "dp_offset": 0,
+    "dp_datetime_format": null,
+    "dp_thumb_size": null,
+    "dp_thumb_limit": null,
+    "dp_thumb_offset": null
+  },
+  "response": {
+    "type": "success",
+    "lightboxes": [
+      {
+        "lightboxId": 1,
+        "title": "Title",
+        "description": "Description",
+        "count": 0,
+        "created": "May.18, 2020 03:53:35",
+        "updated": "May.18, 2020 03:53:35",
+        "public": false,
+        "keywords": "",
+        "link": "http:\/\/depositphotos.com\/folder\/my-title-168776182.html",
+        "userId": "2066237",
+        "userName": "photo_test1",
+        "permission": "edit",
+        "allowedActions": [
+          "changeFiles",
+          "delete",
+          "shareEdit",
+          "shareView"
+        ],
+        "items": []
+      }
+    ],
+    "count": 2
+  }
+}

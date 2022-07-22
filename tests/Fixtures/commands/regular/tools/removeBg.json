@@ -1,0 +1,8 @@
+{
+  "request": {
+    "dp_command": "removeBg",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_image_url": "http:\/\/path\/to\/image"
+  },
+  "response": {}
+}

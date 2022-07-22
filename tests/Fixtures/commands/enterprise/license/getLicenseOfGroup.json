@@ -1,0 +1,29 @@
+{
+  "request": {
+    "dp_command": "getLicenseOfGroup",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5"
+  },
+  "response": {
+    "type": "success",
+    "data": [
+      {
+        "licenseID": 377,
+        "licenseName": "Social Media License",
+        "productType": "image",
+        "sizes": [
+          {
+            "id": "s-2015",
+            "label": "Small",
+            "price": 9,
+            "enabled": true,
+            "order": 5,
+            "netId": 1
+          }
+        ],
+        "enabledSizesCount": 6,
+        "templateId": 1
+      }
+    ],
+    "count": 1
+  }
+}

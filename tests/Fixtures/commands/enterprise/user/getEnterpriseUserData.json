@@ -1,0 +1,36 @@
+{
+  "request": {
+    "dp_command": "getEnterpriseUserData",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5"
+  },
+  "response": {
+    "type": "success",
+    "data": {
+      "username": "tester",
+      "firstName": "Dthtfh",
+      "lastName": "DFHNY",
+      "city": "",
+      "avatarBig": null,
+      "avatarSmall": null,
+      "occupation": null,
+      "avatar": null,
+      "userId": 112488877,
+      "address": "",
+      "email": "email@mail",
+      "phone": null,
+      "state": null,
+      "zip": null,
+      "registered": 1579018896,
+      "enterpriseLite": {
+        "groupId": 9309784
+      },
+      "country": "UA",
+      "businessName": null,
+      "timezone": "Europe\/Berlin",
+      "website": "",
+      "industry": null,
+      "biography": null,
+      "vatNumber": null
+    }
+  }
+}

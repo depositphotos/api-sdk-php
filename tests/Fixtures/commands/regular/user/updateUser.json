@@ -1,0 +1,30 @@
+{
+  "request": {
+    "dp_command": "updateUser",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_email": "email@test.com",
+    "dp_first_name": "Test",
+    "dp_last_name": "Test",
+    "dp_username": "testuser",
+    "dp_gender": "male",
+    "dp_address": "",
+    "dp_city": "NY",
+    "dp_state": "NY",
+    "dp_country": "USA",
+    "dp_zip": "",
+    "dp_timezone": "America/New_York",
+    "dp_phone": "",
+    "dp_news": "no",
+    "dp_company": "Company",
+    "dp_business_name": "Company",
+    "dp_business_phone": "",
+    "dp_occupation": "",
+    "dp_biography": "",
+    "dp_industry": "",
+    "dp_website": null,
+    "dp_facebook": null
+  },
+  "response": {
+    "type": "success"
+  }
+}

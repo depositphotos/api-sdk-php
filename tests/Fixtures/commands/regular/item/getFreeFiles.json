@@ -1,0 +1,65 @@
+{
+  "request": {
+    "dp_command": "getFreeFiles",
+    "dp_limit": 2,
+    "dp_offset": 0,
+    "dp_shuffle": false,
+    "dp_type": "image"
+  },
+  "response": {
+    "type": "success",
+    "items": [
+      {
+        "alt": "",
+        "title": "Footpath",
+        "description": "Winter footpath in city. A snow landscape",
+        "filename": "stock-photo-footpath",
+        "thumbSource": "static3.depositphotos.com",
+        "id": 6542,
+        "blocked": false,
+        "height": 3300,
+        "width": 2208,
+        "type": "image",
+        "sellerId": 1431,
+        "sellerName": "Valeriy_Al",
+        "editorial": false,
+        "status": "approved",
+        "mp": 7,
+        "uploadTimestamp": 1258050026,
+        "nudity": false,
+        "royaltyModel": "cpa",
+        "thumbUrl": "https://static3.depositphotos.com/thumbs/1431/image/103/6542/thumb_110.jpg?forcejpeg=true",
+        "thumbBigUrl": "https://static3.depositphotos.com/1431/103/i/950/6542-stock-photo-footpath.jpg?forcejpeg=true",
+        "thumb_medium": "https://static3.depositphotos.com/thumbs/1431/image/103/6542/thumb_170.jpg?forcejpeg=true",
+        "thumb_huge": "https://static3.depositphotos.com/thumbs/1431/image/103/6542/thumb_450.jpg?forcejpeg=true",
+        "thumb_max": "https://static3.depositphotos.com/1431/103/i/950/depositphotos_6542-stock-photo-footpath.jpg?forcejpeg=true"
+      },
+      {
+        "alt": "",
+        "title": "Phone, glasses, pencil",
+        "description": "Office attributes on a table",
+        "filename": "stock-photo-phone-glasses-pencil",
+        "thumbSource": "static3.depositphotos.com",
+        "id": 54213,
+        "blocked": false,
+        "height": 2427,
+        "width": 3626,
+        "type": "image",
+        "sellerId": 154,
+        "sellerName": "Valeriy_Al",
+        "editorial": false,
+        "status": "approved",
+        "mp": 8,
+        "uploadTimestamp": 1258051209,
+        "nudity": false,
+        "royaltyModel": "cpa",
+        "thumbUrl": "https://static3.depositphotos.com/thumbs/154/image/103/54213/thumb_110.jpg?forcejpeg=true",
+        "thumbBigUrl": "https://static3.depositphotos.com/154/103/i/950/54213-stock-photo-phone-glasses-pencil.jpg?forcejpeg=true",
+        "thumb_medium": "https://static3.depositphotos.com/thumbs/154/image/103/54213/thumb_170.jpg?forcejpeg=true",
+        "thumb_huge": "https://static3.depositphotos.com/thumbs/154/image/103/54213/thumb_450.jpg?forcejpeg=true",
+        "thumb_max": "https://static3.depositphotos.com/154/103/i/950/depositphotos_54213-stock-photo-phone-glasses-pencil.jpg?forcejpeg=true"
+      }
+    ],
+    "count": 20
+  }
+}

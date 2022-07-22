@@ -1,0 +1,13 @@
+{
+  "request": {
+    "dp_command": "renewSession",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5"
+  },
+  "response": {
+    "type": "success",
+    "data": {
+      "sessionid": "21d6f40cfb511982e4424e0e250a9557",
+      "userid": 123
+    }
+  }
+}

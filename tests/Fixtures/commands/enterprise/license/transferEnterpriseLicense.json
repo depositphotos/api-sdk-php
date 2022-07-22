@@ -1,0 +1,42 @@
+{
+  "request": {
+    "dp_command": "transferEnterpriseLicense",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_item_transaction_ids": [
+      123
+    ],
+    "dp_from": {
+      "company": "Depositphotos Inc.",
+      "full_name": "",
+      "address": "115 West 30th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "email": "support@depositphotos.com",
+      "phone": "1-000-990-0071",
+      "country": "US",
+      "website": "www.depositphotos.com",
+      "ein": "46-0588",
+      "vat": null,
+      "country_name": "United States"
+    },
+    "dp_to": {
+      "company": "company",
+      "full_name": "Name",
+      "address": "17 Benaf Road",
+      "city": "",
+      "state": "",
+      "zip": "55405",
+      "email": "tester@mail",
+      "phone": "+85208486",
+      "country": "US",
+      "website": "website",
+      "ein": null,
+      "vat": "",
+      "country_name": null
+    }
+  },
+  "response": {
+    "type": "success"
+  }
+}

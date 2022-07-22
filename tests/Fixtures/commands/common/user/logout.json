@@ -1,0 +1,9 @@
+{
+  "request": {
+    "dp_command": "logout",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5"
+  },
+  "response": {
+    "type": "success"
+  }
+}

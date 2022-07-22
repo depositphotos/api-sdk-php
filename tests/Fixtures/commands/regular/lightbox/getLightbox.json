@@ -1,0 +1,31 @@
+{
+  "request": {
+    "dp_command": "getLightbox",
+    "dp_lightbox_id": 1,
+    "dp_datetime_format": null
+  },
+  "response": {
+    "type": "success",
+    "lightbox": {
+      "lightboxId": 1,
+      "title": "Title",
+      "description": "Description",
+      "count": 0,
+      "created": "May.18, 2020 03:53:35",
+      "updated": "May.18, 2020 03:53:35",
+      "public": false,
+      "keywords": "",
+      "link": "http:\/\/depositphotos.com\/folder\/my-title-168776182.html",
+      "userId": "2066237",
+      "userName": "photo_test1",
+      "permission": "edit",
+      "allowedActions": [
+        "changeFiles",
+        "delete",
+        "shareEdit",
+        "shareView"
+      ],
+      "items": []
+    }
+  }
+}

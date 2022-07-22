@@ -1,0 +1,20 @@
+{
+  "request": {
+    "dp_command": "checkItemsStatus",
+    "dp_ids": [
+      1,
+      2,
+      3
+    ]
+  },
+  "response": {
+    "type": "success",
+    "active": [
+      1,
+      2
+    ],
+    "inactive": [
+      3
+    ]
+  }
+}

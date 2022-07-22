@@ -1,0 +1,11 @@
+{
+  "request": {
+    "dp_command": "getLegalDocument",
+    "dp_legal_name": "terms-of-use",
+    "dp_lang": null
+  },
+  "response": {
+    "type": "success",
+    "document": "Document contents"
+  }
+}

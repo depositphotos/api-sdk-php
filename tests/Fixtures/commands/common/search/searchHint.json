@@ -1,0 +1,23 @@
+{
+  "request": {
+    "dp_command": "searchHint",
+    "dp_search_prefix": "cat",
+    "dp_language": "en"
+  },
+  "response": {
+    "type": "success",
+    "hints": [
+      "cat silhouette",
+      "cat dog",
+      "cattle",
+      "cats and dogs",
+      "catrina",
+      "cat vector",
+      "cat eating",
+      "cat food",
+      "catering service",
+      "catering food"
+    ],
+    "prefix": "cat"
+  }
+}

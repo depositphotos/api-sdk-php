@@ -1,0 +1,59 @@
+{
+  "request": {
+    "dp_command": "getLicensedItems",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_limit": 10,
+    "dp_offset": 0,
+    "dp_type": "paid",
+    "dp_user_id": null,
+    "dp_group_id": null,
+    "dp_date_start": "2022-01-01 00:00:00",
+    "dp_date_end": "2022-01-31 23:59:59",
+    "dp_item_ids": [
+      12323,
+      5432122
+    ],
+    "dp_method_ids": [
+      4331
+    ]
+  },
+  "response": {
+    "type": "success",
+    "downloads": [
+      {
+        "itemTransactionId": 324234,
+        "licenseTransferId": 123112,
+        "licenseId": 43132,
+        "status": "active",
+        "currencyId": 0,
+        "datetime": 1471871234,
+        "filename": "File name here",
+        "groupId": 12,
+        "itemId": 12345678,
+        "marker": 3,
+        "itemType": "video",
+        "preview": "http:\/\/st.depositphotos.com\/123\/linktofile\/filename.jpg",
+        "width": 1920,
+        "height": 1080,
+        "userId": 12345678,
+        "actor": {
+          "id": 12345678,
+          "username": "Usertest"
+        },
+        "seller": {
+          "id": 12345678,
+          "username": "Usertest"
+        },
+        "editorial": false,
+        "visible": true,
+        "invoice_id": 2126132,
+        "project": "Project",
+        "purchaseOrder": "Purchase Order",
+        "client": "Client",
+        "isbn": "Isbn",
+        "other": "Other"
+      }
+    ],
+    "count": 1
+  }
+}

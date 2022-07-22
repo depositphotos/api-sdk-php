@@ -1,0 +1,34 @@
+{
+  "request": {
+    "dp_command": "getUserSearchHint",
+    "dp_prefix": "prefix",
+    "dp_count": 10
+  },
+  "response": {
+    "type": "success",
+    "hints": [
+      {
+        "avatar": "https://static.depositphotos.com/storage/avatars/1192/1192060/a_1192060.jpg?e1542fa35b653589c38445d92809fdef",
+        "onlinePhotos": "213021",
+        "onlineFiles": "213021",
+        "sellerId": 1192060,
+        "phraseMatched": "pho",
+        "phraseSuggestion": "tography33",
+        "phrase": "photography33",
+        "sellerInfo": "Angel Nieto",
+        "sellerUrl": "/portfolio-1192060.html"
+      },
+      {
+        "avatar": "https://static.depositphotos.com/storage/avatars/2249/2249091/a_2249091.jpg?a2eac52a7067b7f34911377573feae7a",
+        "onlinePhotos": "111591",
+        "onlineFiles": "111591",
+        "sellerId": 2249091,
+        "phraseMatched": "pho",
+        "phraseSuggestion": "tographee.eu",
+        "phrase": "photographee.eu",
+        "sellerInfo": "Katarzyna Białasiewicz",
+        "sellerUrl": "/portfolio-2249091.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "request": {
+    "dp_command": "getSubscriptionOffers",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_subaccount_id": 123
+  },
+  "response": {
+    "type": "success",
+    "offers": [
+      {
+        "offerId": "31",
+        "name": "1 month $69",
+        "description": "5 images per day ($0.45 per image)",
+        "period": "30",
+        "buyPeriod": "1",
+        "count": "5",
+        "price": "69.00",
+        "discount": "6.90"
+      }
+    ]
+  }
+}

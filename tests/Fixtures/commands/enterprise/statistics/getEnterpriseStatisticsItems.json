@@ -1,0 +1,36 @@
+{
+  "request": {
+    "dp_command": "getEnterpriseStatisticsItems",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_user_id": 123,
+    "dp_date_start": "2022-01-01 00:00:00",
+    "dp_date_end": "2022-01-31 23:59:59",
+    "dp_limit": 10,
+    "dp_offset": 0
+  },
+  "response": {
+    "type": "success",
+    "data": [
+      {
+        "comps": 0,
+        "licenses": 1,
+        "transfers": 0,
+        "id": 11781,
+        "blocked": false,
+        "height": 2184,
+        "width": 3276,
+        "type": "i",
+        "title": "Kitten",
+        "description": "Funny kitten one two three",
+        "filename": "stock-photo-kitten",
+        "sellerId": 10958,
+        "sellerName": "seller",
+        "editorial": false,
+        "mp": 7.15,
+        "uploadTimestamp": 1631718312,
+        "nudity": false
+      }
+    ],
+    "count": 1
+  }
+}

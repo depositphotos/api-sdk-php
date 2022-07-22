@@ -1,0 +1,22 @@
+{
+  "request": {
+    "dp_command": "getTagCloud",
+    "dp_type": "image"
+  },
+  "response": {
+    "type": "success",
+    "result": [
+      {
+        "name": {
+          "id": "2112152",
+          "date_from": "2020-03-17 17:37:49",
+          "date_to": "2020-04-17 17:37:49",
+          "lang": "en",
+          "phrase": "Christmas",
+          "type": "image"
+        },
+        "rate": 30
+      }
+    ]
+  }
+}

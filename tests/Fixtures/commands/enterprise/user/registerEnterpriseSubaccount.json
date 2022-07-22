@@ -1,0 +1,20 @@
+{
+  "request": {
+    "dp_command": "registerEnterpriseSubaccount",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_regist_user": "username",
+    "dp_regist_email": "email@test",
+    "dp_regist_password": "password",
+    "dp_group_id": null,
+    "dp_user_info": {
+      "firstName": "Firstname",
+      "lastName": "LastName",
+      "phone": null,
+      "occupation": null
+    }
+  },
+  "response": {
+    "type": "success",
+    "userid": 123
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "request": {
+    "dp_command": "getEnterpriseInvoice",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_invoice_id": 123
+  },
+  "response": {
+    "type": "success",
+    "invoice": {
+      "items": [
+        {
+          "itemId": 1178129,
+          "thumbUrl": "https:\/\/static3.depositphotos.com\/...depositphotos_1178129.jpg",
+          "licenseInfo": [
+            {
+              "key": "Purchase Order",
+              "value": "value"
+            }
+          ],
+          "licenseId": 30997745,
+          "licenseName": "Standard License",
+          "size": "cl",
+          "itemOriginalSize": {
+            "height": 2184,
+            "width": 3276
+          },
+          "type": "image",
+          "price": "199.00",
+          "currencyId": "0",
+          "vatPrice": "199.00",
+          "vatRate": null,
+          "tax": {
+            "rate": null,
+            "name": null,
+            "region": null
+          },
+          "vatId": "0",
+          "isEditorial": false,
+          "isNudity": false
+        }
+      ],
+      "state": "unpaid",
+      "total": 18,
+      "vat": 0,
+      "tax": {
+        "rate": null,
+        "name": null,
+        "region": null
+      },
+      "subTotal": 18,
+      "id": 8008396,
+      "number": "ESI-15312676",
+      "type": "file_invoice",
+      "date": 1644331085,
+      "currencyId": 0,
+      "from": {
+        "company": "Depositphotos Inc.",
+        "fullName": "",
+        "address": "115 West 30th Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "email": "support@depositphotos.com",
+        "phone": null,
+        "country": "US",
+        "website": null,
+        "ein": "46-0588",
+        "vat": null,
+        "taxId": null,
+        "countryName": "United States"
+      },
+      "to": {
+        "company": "company",
+        "fullName": "Name",
+        "address": "1790 Benaf Road",
+        "city": "",
+        "state": "",
+        "zip": "55405",
+        "email": "tester@mail",
+        "phone": "+856094486",
+        "country": "US",
+        "website": "website",
+        "ein": null,
+        "vat": "",
+        "taxId": "9553454",
+        "countryName": null
+      },
+      "paymentInstructions": [
+        {
+          "key": "bankName",
+          "value": "Silicon Valley Bank"
+        }
+      ],
+      "title": "File Invoice",
+      "isProforma": false,
+      "paid": 1644331085
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "request": {
+    "dp_command": "getSubscriptions",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_subaccount_id": 123,
+    "dp_datetime_format": null
+  },
+  "response": {
+    "type": "success",
+    "subscriptions": [
+      {
+        "id": "7928098",
+        "name": "Promo Subscription",
+        "status": "active",
+        "price": 99.99,
+        "purchaseMethod": "promocode",
+        "dateBegin": "Sep.02, 2014 13:15:00",
+        "dateEnd": "Sep.17, 2015 13:15:00",
+        "amount": 5,
+        "period": 30,
+        "buyPeriod": 1,
+        "renewalTime": "Sep.17, 2015 13:15:00",
+        "membership": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "request": {
+    "dp_command": "getLegalsList"
+  },
+  "response": {
+    "type": "success",
+    "legals": [
+      "terms-of-use",
+      "privacy-policy",
+      "dmca",
+      "member-agreement-text",
+      "content-license",
+      "standard-license",
+      "extended-license",
+      "comparison",
+      "subscription-agreement",
+      "cancellation-policy"
+    ]
+  }
+}

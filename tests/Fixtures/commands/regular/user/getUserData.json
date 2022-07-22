@@ -1,0 +1,54 @@
+{
+  "request": {
+    "dp_command": "getUserData",
+    "dp_session_id": "e9753fbbd7454ea001b7619ce1e20fe5",
+    "dp_user_id": 123,
+    "dp_datetime_format": "datetime"
+  },
+  "response": {
+    "type": "success",
+    "email": "email@test.com",
+    "balance": 102,
+    "firstName": "Test",
+    "lastName": "Test",
+    "gender": "male",
+    "news": "no",
+    "address": "my address",
+    "city": "Kyiv",
+    "phone": "",
+    "status": "active",
+    "state": "",
+    "timezone": "Europe/Kiev",
+    "username": "testuser",
+    "zip": "12345",
+    "createdAt": "Mar.21, 2020 12:41:16",
+    "country": "Ukraine",
+    "businessName": "",
+    "avatar": "https://depositphotos.com/....jpg",
+    "biography": null,
+    "businessPhone": "111222333",
+    "company": "Company inc",
+    "creditsAmount": "87.00",
+    "filesAmount": 61,
+    "invoiceAmount": 17,
+    "website": "http://test.com",
+    "occupation": null,
+    "vatNumber": null,
+    "subscriptions": [
+      {
+        "name": "1 month $69",
+        "status": "active",
+        "purchaseMethod": "mes",
+        "dateBegin": "Mar.17, 2020 13:58:55",
+        "dateEnd": "Apr.16, 2020 14:58:55",
+        "period": 30,
+        "amount": 0
+      }
+    ],
+    "equipment": null,
+    "facebook": "",
+    "notifySales": null,
+    "notifySelection": null,
+    "industry": null
+  }
+}
